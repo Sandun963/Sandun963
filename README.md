@@ -5,7 +5,7 @@
 - 📫 How to reach me: sandunjanitha369@gmail.com  
 - 😄 Pronouns: Mr Dorel  
 - ⚡ Fun fact: I love the rainy weather and enjoy finding inspiration during a downpour.  
-- 🌐 Check out my portfolio: [https://sandun963.github.io/portfolio/](https://sandun963.github.io/portfolio/)
+- 🌐 Check out my portfolio: [https://sandun963.github.io/portfolio/]((https://tiny-torte-96e4ce.netlify.app/))
 
 
 <!---
